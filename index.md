@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 # Gentle Introduction to R Programming Language 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >This work, as a whole, is licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 
 ### Georgia State University
 ### by [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
@@ -13,7 +13,19 @@ layout: homepage
   - *This slide is based on materials prepared by [Adam Kuczynski](https://adamkucz.github.io/psych548/), [Charles Lanfear](https://clanfear.github.io/) and [Rebecca Ferrell](https://anth.la.psu.edu/people/rebecca-ferrell/). I am indebted to their code, examples, and inspiration.*
 - I recommend checking the other website I created for [visualization in R](https://ozlemtuncel.github.io/r_visualization/).
 
+# My go-to sources for learning R
+
+<img src="assets/img/r_sources.png" alt="I relied on these sources to learn R" style="width: 50%; height: auto;">
+
+I started learning R around 2015 and over time these four resources was my go-to to learn R. 
+
+- [R Programming Course on Coursera](https://www.coursera.org/learn/r-programming)
+- [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/index.html) by Garrett Grolemund
+- [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
+
 # Very Incomprehensive Sources for Learning R
+*If you need more resources on specific things, I have created this incomprehensive list of sources to learn R.*
 
 📦 : R package
 
