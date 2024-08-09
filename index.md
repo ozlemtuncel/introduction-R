@@ -15,7 +15,7 @@ layout: homepage
 
 # My go-to sources for learning R
 
-<img src="assets/img/r_sources.png" alt="I relied on these sources to learn R" style="width: 50%; height: auto;">
+<img src="assets/img/r_sources.png" alt="I relied on these sources to learn R" style="width: 70%; height: auto;">
 
 I started learning R around 2015 and over time these four resources was my go-to to learn R. 
 
