@@ -2,24 +2,16 @@
 layout: homepage
 ---
 
+# Gentle Introduction to R Programming Language 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 
-# Gentle Introduction to R Programming Language 
-
-## Georgia State University
-## [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
+### Georgia State University
+### by [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
 
 # Slides
 - [Introduction to R Programming Language](https://ozlemtuncel.quarto.pub/data-visualization-in-r/)
 
-# Why use R Studio instead of R?
-
-<img src="/assets/img/difference_r_rstudio.png" style="height: 300px; width:500px;"/>
-
-<img src="/assets/img/kitten-try-things.jpg" alt="Source: https://preview.carpentries.org/R-ecology-lesson/00-before-we-start.html " style="height: 300px; width:200px;"/>
-
-
-# Very Incomprehsnive Sources for Learning R
+# Very Incomprehensive Sources for Learning R
 
 📦 : R package
 ⭐: Very Comprehensive Guide (and Ozlem’s Favorite)
@@ -88,8 +80,7 @@ layout: homepage
 
 ### GitHub and Git in R
 
-- 🌐 https://r-pkgs.org/software-development-practices.html
-- 
+- 🌐 [R Packages chapter directions on Git use](https://r-pkgs.org/software-development-practices.html) by O'Reilly
 
 ### Miscellaneous but very useful
 
