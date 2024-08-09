@@ -9,13 +9,18 @@ layout: homepage
 ### by [Ozlem Tuncel, PhD](https://ozlemtuncel.github.io/)
 
 # Slides
-- [Introduction to R Programming Language](https://ozlemtuncel.quarto.pub/data-visualization-in-r/)
+- [**Introduction to R Programming Language**](https://ozlemtuncel.quarto.pub/data-visualization-in-r/) by Ozlem Tuncel
+  - *This slide is based on materials prepared by [Adam Kuczynski](https://adamkucz.github.io/psych548/), [Charles Lanfear](https://clanfear.github.io/) and [Rebecca Ferrell](https://anth.la.psu.edu/people/rebecca-ferrell/). I am indebted to their code, examples, and inspiration.*
+- I recommend checking the other website I created for [visualization in R](https://ozlemtuncel.github.io/r_visualization/).
 
 # Very Incomprehensive Sources for Learning R
 
 📦 : R package
+
 ⭐: Very Comprehensive Guide (and Ozlem’s Favorite)
+
 🌐: Useful webpage or instruction
+
 📚: Book
 
 ### General Resources
