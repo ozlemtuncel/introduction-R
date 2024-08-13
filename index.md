@@ -49,9 +49,9 @@ I started learning R around 2015 and over time these four resources was my go-to
 
 - 🌐 [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) — Covers gt, kable + kableExtra + formattable + DT packages
 - 📦 [gt](https://gt.rstudio.com/) — good table package
+- 📦 🌐 [broom and huxtable](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/)
 
 ### Maps
-
 - 📦 [sf](https://r-spatial.github.io/sf/articles/sf1.html) — Simple Features vignette
 
 ### R Markdown
@@ -111,3 +111,4 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 📦 [predtools](https://cran.r-project.org/web/packages/predtools/vignettes/calibPlot.html) — Calibration Plot
 - 📦 [ggsankey](https://r-charts.com/flow/sankey-diagram-ggplot2/) — Sankey diagram using ggplot2 features
 - 🌐 [Detailed ggsankey vignette](https://rpubs.com/techanswers88/sankey-with-own-data-in-ggplot)
+- 🌐 [Translating Stata to R](https://stata2r.github.io/)
