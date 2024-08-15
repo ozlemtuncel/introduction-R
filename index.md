@@ -44,7 +44,8 @@ I started learning R around 2015 and over time these four resources was my go-to
 - ⭐ 🌐 [R Workshop](https://intro2r.library.duke.edu/) by Duke University
 - 🌐 [Beginner, Intermediate, and Advanced R Resources](https://education.rstudio.com/learn/) by R Studio
 - 🌐 [Learning Statistics with R](https://psyteachr.github.io/) by the psyTeachR team at the University of Glasgow
-
+- 🌐 [How to write nice R code?](https://nicercode.github.io/modules/)
+  
 ### Tables
 
 - 🌐 [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) — Covers gt, kable + kableExtra + formattable + DT packages
@@ -83,6 +84,7 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 📦 [rvest](https://dcl-wrangle.stanford.edu/rvest.html) — scrape information from a webpage
     - 📦 [rvest vignette](https://cran.r-project.org/web/packages/rvest/vignettes/rvest.html)
 - 🌐 [Scraping with R](https://www.scrapingbee.com/blog/web-scraping-r/)
+- ⭐ 🌐 [Scraping with RSelenium](https://burtmonroe.github.io/TextAsDataCourse/Tutorials/TADA-RSelenium.nb.html)
 
 ### Text Analysis
 
@@ -96,11 +98,15 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 🌐 [Quantitative Text Analysis Using R and quanteda](https://www.uni-muenster.de/imperia/md/content/ifpol/grasp/2019-06-27_muenster.pdf) by Kenneth Benoit
 - ⭐ 🌐 [regex](https://regex101.com/) practice website
 - 🌐 [Introduction to regex](https://www.oreilly.com/content/an-introduction-to-regular-expressions/) by O’Reilly
+- 🌐 [Text analysis using R](https://guides.library.upenn.edu/penntdm/r)
 
 ### GitHub and Git in R
 
 - 🌐 [R Packages chapter directions on Git use](https://r-pkgs.org/software-development-practices.html) by O'Reilly
 
+### Shiny R
+- 🌐 [Creating web applications with Shiny R](https://pdhp.isr.umich.edu/workshops/creating-web-applications-with-r-shiny/)
+  
 ### Miscellaneous but very useful
 
 - 🌐 [Package downloads over time](https://dgrtwo.shinyapps.io/cranview/) — Useful when it is hard to decide which package to use
@@ -114,3 +120,8 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 📦 [ggsankey](https://r-charts.com/flow/sankey-diagram-ggplot2/) — Sankey diagram using ggplot2 features
 - 🌐 [Detailed ggsankey vignette](https://rpubs.com/techanswers88/sankey-with-own-data-in-ggplot)
 - 🌐 [Translating Stata to R](https://stata2r.github.io/)
+- ⭐ 🌐 [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python)
+- 📦 [sampleSelection package](https://cran.r-project.org/web/packages/sampleSelection/vignettes/selection.pdf)
+- ⭐ 🌐 [InteractionPoweR Shiny App for analytic power](https://david-baranger.shinyapps.io/InteractionPoweR_analytic/)
+- 📦 [did package](https://bcallaway11.github.io/did/articles/did-basics.html) -- Difference-in-Differences design package
+- 🌐 [Top R packages for political science and economics dataset](https://rforpoliticalscience.com/2023/04/07/top-r-packages-for-downloading-political-science-and-economics-datasets/#rpackage)
