@@ -60,6 +60,8 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 🌐 [Pimp my rmd](https://holtzy.github.io/Pimp-my-rmd/) — Improving your markdown products
 - 🌐 [Publishing websites](https://rstudio.github.io/distill/publish_website.html) through R Markdown
 - 🌐 [Markdown Cheat Sheet](https://commonmark.org/help/)
+- 🌐 [Markdown and YAML cheatsheet](https://learntheweb.courses/topics/markdown-yaml-cheat-sheet/)
+- 📚 🌐 [blogdown](https://bookdown.org/yihui/blogdown/)
 
 ### Regression Models
 
