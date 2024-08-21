@@ -14,11 +14,11 @@ layout: homepage
 - I recommend checking the other website I created for [visualization in R](https://ozlemtuncel.github.io/r_visualization/).
 
 # Hands-on exercise 
-- [Exercise materials](\assets\files\R_Exercises.pdf)
+- **[Exercise materials](assets/files/R_Exercises.pdf)**
 - We are going to use replication materials from:
   - Appell, Benjamin J. and Cyanne E. Loyle. 2012. "The Economic Benefits of Justice: Post-conflict Justice and Foreign Direct Investment". *Journal of Peace Research*. 49(5): 685–99.
-- You can use `stevedata` [package](https://cran.r-project.org/web/packages/stevedata/stevedata.pdf) and load your data with `stevedata::EBJ`
-- Or, use [this link](assets/files/ebj.csv) to download CSV format.
+- You can use [this link](assets/files/ebj.csv) to download CSV format.
+- Or, you can use `stevedata` [package](https://cran.r-project.org/web/packages/stevedata/stevedata.pdf) and load your data with `stevedata::EBJ`
 
 # My go-to sources for learning R
 
