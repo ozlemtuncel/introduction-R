@@ -58,6 +58,7 @@ I started learning R around 2015 and over time these four resources was my go-to
 - 🌐 [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) — Covers gt, kable + kableExtra + formattable + DT packages
 - 📦 [gt](https://gt.rstudio.com/) — good table package
 - 📦 🌐 [broom and huxtable](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/)
+- 📦 🌐 [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/) — stargazer package
 
 ### Maps
 - 📦 [sf](https://r-spatial.github.io/sf/articles/sf1.html) — Simple Features vignette
