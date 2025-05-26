@@ -57,6 +57,7 @@ I started learning R around 2015 and over time these four resources was my go-to
 
 - 🌐 [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) — Covers gt, kable + kableExtra + formattable + DT packages
 - 📦 [gt](https://gt.rstudio.com/) — good table package
+- ⭐ 📦 [gtsummary](https://www.danieldsjoberg.com/gtsummary/) — gtsummary package
 - 📦 🌐 [broom and huxtable](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/)
 - 📦 🌐 [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/) — stargazer package
 - ⭐ 📦 [sumtable](https://cran.r-project.org/web/packages/vtable/vignettes/sumtable.html) -- sumtable package
